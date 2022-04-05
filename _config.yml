@@ -19,7 +19,7 @@ locale                   : "ko"
 title                    : "호용이의 모험"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "하위"
+name                     : "???"
 description              : "Daelim WASD"
 url                      : "https://ChoiHoYong.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
