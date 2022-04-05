@@ -15,12 +15,12 @@
 minimal_mistakes_skin    : "air" # "default", "aqua", "contrast", "dark" , "dirt", "neon", , "plum", "sunrise","mint"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "ko"
+title                    : "호용이의 모험"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "하위"
+description              : "Daelim WASD"
 url                      : "https://ChoiHoYong.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "최호용"
+  avatar           : # path of avatar image, e.g. ""C:\Users\최호원\Desktop\22.03.14 빅데이터.PNG""
+  bio              : "I'm the best"
+  location         : "Seoul Korea"
+  email            : "howon5@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -284,7 +284,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: true
       related: true
