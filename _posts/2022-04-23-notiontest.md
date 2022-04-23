@@ -2,7 +2,7 @@
 
 ## ERP 개발 이유
 
-![1.png](../images/1.png)
+![1](docs/assets/images/1.jpg)
 
 아웃과 소스가 합쳐져 명사화된 합성어이다.
 
