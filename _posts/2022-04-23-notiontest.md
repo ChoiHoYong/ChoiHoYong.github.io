@@ -2,7 +2,7 @@
 
 ## ERP 개발 이유
 
-![1.jpg](C:\Users\최호원\Downloads\erp\ERP - 중간고사 da38257f63814c3c9abb7c4d83208c7c\1.jpg)
+![1.jpg](C:\Users\최호원\Downloads\erp\ERP\1.jpg)
 
 아웃과 소스가 합쳐져 명사화된 합성어이다.
 
