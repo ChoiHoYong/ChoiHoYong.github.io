@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "최호용"
-  avatar           : # path of avatar image, e.g. ""C:\Users\최호원\Desktop\22.03.14 빅데이터.PNG""
+  avatar           : # "/assets/pick.jpg"
   bio              : "I'm the best"
   location         : "Seoul Korea"
   email            : "howon5@naver.com"
