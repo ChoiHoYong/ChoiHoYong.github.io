@@ -1,7 +1,7 @@
 ---
 title: "DaeLim University"
 layout: archive
-permalink: categories/unity
+permalink: categories/DaeLim
 author_profile: true
 sidebar_main: true
 ---
