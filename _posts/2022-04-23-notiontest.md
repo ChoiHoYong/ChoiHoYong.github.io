@@ -1,6 +1,18 @@
+---
+title:  "ERP 중간고사 정리"
+
 categories:
   - DaeLim
-
+   
+tags:
+  - [DaeLim, ERP]
+  
+toc: true
+toc_sticky: true
+ 
+date: 2022-04-20
+last_modified_at: 2022-04-30
+---
 # ERP - 중간고사
 
 ## ERP 개발 이유
