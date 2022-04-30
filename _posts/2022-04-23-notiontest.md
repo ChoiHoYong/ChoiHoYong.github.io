@@ -2,7 +2,7 @@
 title:  "ERP 중간고사 정리"
 
 categories:
-  - DaeLim
+  - ERP
    
 tags:
   - [DaeLim, ERP]
