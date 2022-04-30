@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "default"  "air", "aqua", "contrast", , "dir
 
 # Site Settings
 locale                   : "ko"
-title                    : "호용이의 모험"
+title                    : "HoYong's Diary"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "쿨뽀"
