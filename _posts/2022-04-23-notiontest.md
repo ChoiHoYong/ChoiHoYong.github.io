@@ -1,3 +1,6 @@
+categories:
+  - DaeLim
+
 # ERP - 중간고사
 
 ## ERP 개발 이유
