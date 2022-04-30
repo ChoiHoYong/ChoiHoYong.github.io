@@ -102,30 +102,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "쿨뽀"
-  avatar           : "![pick](https://user-images.githubusercontent.com/102167336/166090043-d7885f9c-91a0-46a0-888c-a2d0ad9444c2.jpg)"
+  name             : "최호용"
+  avatar           : # path of avatar image, e.g. ""C:\Users\최호원\Desktop\22.03.14 빅데이터.PNG""
   bio              : "I'm the best"
   location         : "Seoul Korea"
   email            : "howon5@naver.com"
- links:
+  links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:bboddak@gmail.com"
+      # url: "mailto:your.name@email.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/ansohxxn"
-    #- label: "Website"
-    #  icon: "fas fa-fw fa-link"
-    # url: "https://your-website.com"
-    #- label: "Twitter"
-    #  icon: "fab fa-fw fa-twitter-square"
-    #  # url: "https://twitter.com/"
-    #- label: "Facebook"
-    #  icon: "fab fa-fw fa-facebook-square"
-    #  # url: "https://facebook.com/"
-    #- label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-    #  # url: "https://instagram.com/"
+      # url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
