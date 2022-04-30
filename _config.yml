@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "쿨뽀"
-  avatar           : ![pick](https://user-images.githubusercontent.com/102167336/166092166-f551f635-0ca0-45e5-be67-530f77783daf.jpg)
+  avatar           : "https://user-images.githubusercontent.com/102167336/166092166-f551f635-0ca0-45e5-be67-530f77783daf.jpg"
   bio              : "I'm the best"
   location         : "Seoul Korea"
   email            : "howon5@naver.com"
